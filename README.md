@@ -34,7 +34,7 @@
 A responsive Weather App built with **HTML, CSS, and JavaScript** using OpenWeather API.  
 
 <p align="center">
-  <img src="ui/Results.png" width="400px" alt="Weather App UI"/>
+  <img src="https://github.com/Ruvi7599/weather-app/ui/Results.png" width="400px" alt="Weather App UI"/>
 </p>
 
 🔗 [View Repository](https://github.com/Ruvi7599/weather-app)
