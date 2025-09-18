@@ -59,4 +59,4 @@ Outside coding, I am fluent in Sinhala and English and love venturing into new t
 ---
 
 ## ✨ Fun Quote
-> *"Great design is invisibl*
+> *"Great design is invisible*
