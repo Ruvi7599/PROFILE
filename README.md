@@ -43,19 +43,6 @@ Outside coding, I am fluent in Sinhala and English and love venturing into new t
   <img src="https://github-profile-trophy.vercel.app/?username=Ruvi7599&theme=radical&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies"/>
 </p>
 
----
-
-## 🌟 Featured Project
-### ☁️ Weather App
-A responsive Weather App built with **HTML, CSS, and JavaScript** using OpenWeather API.  
-
-<p align="center">
-  <img src="ui/Results.png" width="400px" alt="Weather App UI"/>
-</p>
-
-🔗 [View Repository](https://github.com/Ruvi7599/weather-app)
-
----
 
 ## 📂 Highlighted Projects
 - ☁️ [Weather App](https://github.com/Ruvi7599/weather-app) *(HTML, CSS, JS, OpenWeather API)*  
