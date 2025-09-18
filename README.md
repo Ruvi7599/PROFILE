@@ -58,8 +58,6 @@ A responsive Weather App built with **HTML, CSS, and JavaScript** using OpenWeat
 ---
 
 ## 📂 Highlighted Projects
-- 🚑 ["සෞඛ්‍යදාන" Emergency Ambulance Hiring Portal](#) *(Laravel, PHP, MySQL)*  
-- 🎓 [Student Result Management System](#) *(React, Spring Boot, MySQL)*  
 - ☁️ [Weather App](https://github.com/Ruvi7599/weather-app) *(HTML, CSS, JS, OpenWeather API)*  
 
 ---
