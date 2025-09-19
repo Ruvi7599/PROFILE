@@ -65,7 +65,7 @@ hobbies:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Lightning" width="30" /> Tech Stack & Tools
 
@@ -97,7 +97,7 @@ hobbies:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Stats" width="30" /> GitHub Analytics & Activity
 
@@ -124,7 +124,7 @@ hobbies:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed4b23.png" alt="Rocket" width="30" /> Featured Projects
 
@@ -196,7 +196,7 @@ Modern e-commerce platform with payment integration and admin dashboard.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d9c4f9-0afb-4def-82d8-9ac898bbbef7.png" alt="Connect" width="30" /> Let's Connect & Collaborate!
 
