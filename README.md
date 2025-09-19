@@ -115,7 +115,7 @@ hobbies:
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d9c4f9-0afb-4def-82d8-9ac898bbbef7.png" alt="Connect" width="30" /> Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -135,9 +135,6 @@ hobbies:
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20"/>
 </a>
 </p>
 
@@ -201,16 +198,9 @@ const ruvinda = {
 ![GitHub followers](https://img.shields.io/github/followers/Ruvi7599?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Ruvi7599?style=social)
 
-### 🎵 Currently Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&fontSize=40" width="100%">
-
 ### ✨ Fun Fact
 *When I'm not coding, you can find me exploring new tech trends, contributing to open source, or planning the next big project! 🌟*
 
 **Thanks for visiting! Don't forget to ⭐ star some repositories if you find them interesting!**
-
-![Thank You GIF](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e58-be98-c4c0a3f126a7.png)
 
 </div>
