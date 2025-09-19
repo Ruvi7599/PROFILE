@@ -111,15 +111,6 @@ hobbies:
 <!-- Most Used Languages -->
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvi7599&layout=compact&theme=tokyonight&hide_border=true" />
 
-<!-- GitHub Contribution Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ruvi7599/Ruvi7599/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ruvi7599/Ruvi7599/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Ruvi7599/Ruvi7599/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ruvi7599&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
-
 </div>
 
 ---
